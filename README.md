@@ -8,12 +8,12 @@ Useful for services that, from an url, uses favicon reference directly from what
 ## How to use
 
 ```
-yafir.infinityfreeapp.com/?site={hostname}
+yafir.vercel.app/?site={hostname}
 ```
 
 ### Example
 
-[yafir.infinityfreeapp.com/?site=google.com](https://yafir.infinityfreeapp.com/?site=google.com)
+[yafir.vercel.app/?site=google.com](https://yafir.vercel.app/?site=google.com)
 
 ## For developers
 
