@@ -3,7 +3,7 @@ Yafir - Yet Another Favicon Relayer
 
 A favicon grabber/relayer that returns the favicon of a site and also uses that same favicon as it's own.
 
-Useful for services that, from an url, uses favicon reference directly from what it's set in <link rel="icon" href="..."> tag of the url.
+Useful for services that, from an url, uses favicon reference directly from what it's set in ```<link rel="icon" href="...">``` tag of the url.
 
 ## How to use
 
